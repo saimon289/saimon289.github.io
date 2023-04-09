@@ -967,7 +967,7 @@ ul#nav li.current a:after {
 /* =================================================================== */
 
 #hero {
-	background: #0F1215 url(https://lh3.googleusercontent.com/cAgJXslyW-cptzZQ8xbxgkCYTEq-GcYeyRt6v7iBmNL12vQRXwpbMAz1SsR6WK29z4v7j3HIjf7Xw_xtKQcd4P5P4suwePUlIrgZdmGP) no-repeat center; 
+	background: #0F1215 url(bg-hero.PNG) no-repeat center; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
